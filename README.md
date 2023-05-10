@@ -21,3 +21,17 @@ translated cotains all the translated versions of the datasets.
 To run the expriments:Open the notebook in colab and upload required dataset from the datafolder as per the experiment.
 
 The translation and agumentation is done using the files in Utilities folder.
+
+
+In Expreiements folder: 
+
+Mbert_Expreiments.ipynb : containd zero short expreiemts on mbert along with robustness tests
+Indibert_Expreiments.ipynb : containd zero short expreiemts on Indibert along with robustness tests
+XLMroberta_Expreiments.ipynb : containd zero short expreiemts on XLMroberta along with robustness tests
+XLNet Expreiments : containd zero short expreiemts on XLNet along with robustness tests
+
+Multilingual_mbert.ipynb, Multilingual_indibert.ipynb ,Multilingual_xlmroberta.ipynb and Multilingual_XLnet.ipynb : contins experiment on models where we trained the model with all other languages and evalutated on different language testsets.
+
+
+
+

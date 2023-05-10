@@ -12,3 +12,9 @@ this file contains all the replicated modes
 
 
 To use download all the files into a single folder and run the ipnb file or open the file n colab and upload all the tsv files.
+
+Milestone -2 
+Expeiments consits of all the expreimented performend
+Data folder consited of datasets used for the experiments
+Balanced-Balanaced dataset
+translated cotains all the translated versions of the datasets.

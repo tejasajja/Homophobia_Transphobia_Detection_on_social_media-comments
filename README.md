@@ -18,3 +18,6 @@ Expeiments consits of all the expreimented performend
 Data folder consited of datasets used for the experiments
 Balanced-Balanaced dataset
 translated cotains all the translated versions of the datasets.
+To run the expriments:Open the notebook in colab and upload required dataset from the datafolder as per the experiment.
+
+The translation and agumentation is done using the files in Utilities folder.

@@ -20,17 +20,21 @@ Balanced-Balanaced dataset
 translated cotains all the translated versions of the datasets.
 To run the expriments:Open the notebook in colab and upload required dataset from the datafolder as per the experiment.
 
+
+
 The translation and agumentation is done using the files in Utilities folder.
-
-
 In Expreiements folder: 
+Mbert_Expreiments.ipynb,Indibert_Expreiments.ipynb,XLMroberta_Expreiments.ipynb and XLNet_Expreiments.ipynb : containd zero short expreiemts on each model  along with robustness tests
 
-Mbert_Expreiments.ipynb : containd zero short expreiemts on mbert along with robustness tests
-Indibert_Expreiments.ipynb : containd zero short expreiemts on Indibert along with robustness tests
-XLMroberta_Expreiments.ipynb : containd zero short expreiemts on XLMroberta along with robustness tests
-XLNet Expreiments : containd zero short expreiemts on XLNet along with robustness tests
+Multilingual_mbert.ipynb, Multilingual_indibert.ipynb ,Multilingual_xlmroberta.ipynb and Multilingual_XLnet.ipynb    : contins experiment on models where we trained the model with all other languages and evalutated on different language testsets.
 
-Multilingual_mbert.ipynb, Multilingual_indibert.ipynb ,Multilingual_xlmroberta.ipynb and Multilingual_XLnet.ipynb : contins experiment on models where we trained the model with all other languages and evalutated on different language testsets.
+ Utilities folder consists of: 
+eng_translation.ipynb, tam_translation : translation of the dataset in to other languages.
+balance_englih_data.ipynb: consists of augumentation and balancing the dataset for out expreiments
+hyperparamerte_tuning.ipynb: consists of expirement on out models for different learning rates.
+
+
+
 
 
 
